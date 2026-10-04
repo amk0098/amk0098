@@ -19,8 +19,8 @@ I am currently preparing a portfolio for student roles and internships, with a f
 - **[Shift Budget Allocator](https://github.com/amk0098/python-shift-budget-allocator)**  
   Python prototype for calculating fixed staffing commitments and remaining weekly hours from Excel input.
 
-- **HeatRisk Deutschland** *(in preparation)*  
-  An original time-series ML project using official German climate data to estimate next-day heat-day risk. The project will include a reproducible data pipeline, chronological evaluation, and an interactive results dashboard.
+- **[HeatRisk Deutschland](https://github.com/amk0098/heatrisk-deutschland)**
+  An original time series ML project using official German climate data to estimate next day heat day risk. The project will include a reproducible data pipeline, chronological evaluation, and an interactive results dashboard.
 
 ## What I value in projects
 
